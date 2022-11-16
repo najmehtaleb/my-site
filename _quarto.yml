@@ -28,6 +28,7 @@ website:
         href: "https://twitter.com/NajmehTaleb"
 
 
-
+execute:
+  freeze: auto
 
 
