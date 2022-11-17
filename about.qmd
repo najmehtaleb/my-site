@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Hello, I am Najmeh Taleb
+Hello, I am Najmeh Taleb. Here I will explani more about me
