@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Site",
+    "title": "Overview",
     "section": "",
-    "text": "This is my website created by Quarto.\nMore contents will come shortly!"
+    "text": "I will add a diagram to explain all the courses and their relationship"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hello, I am Najmeh Taleb"
+    "text": "Here I will explani more about me"
+  },
+  {
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Overview",
+    "section": "",
+    "text": "I will add a diagram to explain all the courses and their relationship"
   }
 ]

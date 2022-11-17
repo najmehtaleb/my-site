@@ -11,22 +11,27 @@ format:
 
 
 website:
-  title: "Najmeh Taleb"
+  title: Najmeh Taleb
   
   navbar:
     left:
       - text: Overview 
-        href: index.qmd
-      - text: "Math for ML"
-        href: "https://najmehtaleb.github.io/math-for-ml-dl"
-      - text: "About"
+        href: overview.qmd
+        
+      - text: Machine Learning 
+        href: https://najmehtaleb.github.io/machine-learning/
+        
+      - text: Math for Machine Learning
+        href: https://najmehtaleb.github.io/math-for-ml-dl
+        
+      - text: About
         href: about.qmd
         
     right:
       - icon: github
-        href: "https://github.com/najmehtaleb"
+        href: https://github.com/najmehtaleb
       - icon: twitter
-        href: "https://twitter.com/NajmehTaleb"
+        href: https://twitter.com/NajmehTaleb
 
 
 execute:
