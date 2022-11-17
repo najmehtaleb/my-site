@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "overview.html",
+    "href": "overview.html",
     "title": "Overview",
     "section": "",
     "text": "I will add a diagram to explain all the courses and their relationship"
@@ -12,12 +12,5 @@
     "title": "About",
     "section": "",
     "text": "Here I will explani more about me"
-  },
-  {
-    "objectID": "overview.html",
-    "href": "overview.html",
-    "title": "Overview",
-    "section": "",
-    "text": "I will add a diagram to explain all the courses and their relationship"
   }
 ]

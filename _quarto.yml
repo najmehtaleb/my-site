@@ -18,18 +18,22 @@ website:
       - text: Overview 
         href: overview.qmd
         
+      - text: Python Ecosystem
+        href: https://najmehtaleb.github.io/python-ecosystem/
+        
       - text: Machine Learning 
         href: https://najmehtaleb.github.io/machine-learning/
         
-      - text: Math for Machine Learning
+      - text: Math
         href: https://najmehtaleb.github.io/math-for-ml-dl
         
-      - text: About
-        href: about.qmd
+
+
         
     right:
       - icon: github
         href: https://github.com/najmehtaleb
+        
       - icon: twitter
         href: https://twitter.com/NajmehTaleb
 
