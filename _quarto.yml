@@ -14,14 +14,8 @@ website:
   
   navbar:
     left:
-      - text: Overview 
+      - text: Najmeh Taleb 
         href: overview.qmd
-        
-      - text: ML-DL Infrastructure 
-        href: https://najmehtaleb.github.io/ml-dl-infrastructure/
-        
-      - text: Python Ecosystem for ML
-        href: https://najmehtaleb.github.io/python-ecosystem/
         
       - text: Machine Learning 
         href: https://najmehtaleb.github.io/machine-learning/

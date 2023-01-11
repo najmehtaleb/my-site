@@ -2,4 +2,4 @@
 title: "Overview"
 ---
 
-I will add a diagram to explain all the courses and their relationship
+I will add a diagram to explain all the contents and their relationship
