@@ -23,6 +23,8 @@ website:
       - text: Math for ML-DL
         href: https://najmehtaleb.github.io/math-for-ml-dl
         
+      - text: Reference
+        
     right:
       - icon: github
         href: https://github.com/najmehtaleb
